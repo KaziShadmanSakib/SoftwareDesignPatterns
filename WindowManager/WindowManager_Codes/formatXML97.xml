@@ -1,0 +1,4 @@
+<components>
+    <Button value="Button 01" X="200" Y="50" height="50" width="100" font= "Arial" fontSize="18"/>
+    <Label value="Roll:97" X="150" Y="250" height="100" width="200" font= "Arial" fontSize="18"/>
+</components>
